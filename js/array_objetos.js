@@ -17,3 +17,4 @@ for (const producto of carrito) {
     console.log(producto.nombre);
     console.log(producto.precio);
 }
+
